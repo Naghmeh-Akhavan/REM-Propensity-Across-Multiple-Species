@@ -54,4 +54,4 @@ ratDarkCSV    = fullfile(repoRoot, 'DATA_files', 'Rat dark data',    'BigResultT
 
 Naghmeh Akhavan - March 2026
 
-For questions, please refer to comments inside the MATLAB scripts or contact author Naghmeh Akhavan (`nakhavan@umich.edu`).
+For questions, please refer to comments inside the MATLAB scripts or contact author Naghmeh Akhavan (nakhavan@umich.edu).
